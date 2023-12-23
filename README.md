@@ -16,4 +16,5 @@ Missiles and Cameras. Infrared Cameras and Cameras.
 ## Flares and Fighter Jets
 - Jets have flares for heatseeker missiles
 - Equipping jets with Infrared lasers
-
+- Lasers and airplanes
+- what happens when you shine lasers on f22 pilots
